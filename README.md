@@ -23,9 +23,9 @@ Betterflye
 
 ## Links
 
-- [Project description]()
-- [Team meeting minutes]()
-- [Mentor meeting minutes]()
-- [Client partner meeting minutes]()
+- [Project description](ProjectDescription.md)
+- [Team meeting minutes](MeetingMinutes/Team)
+- [Mentor meeting minutes](MeetingMinutes/Mentor)
+- [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 
 ## Code Repositories
