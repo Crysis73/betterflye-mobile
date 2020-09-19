@@ -2,11 +2,8 @@
 
 ## Summary
 
----
 
 ## Team Members
-
----
 
 - Casey Haskins
 - Clay Reber
@@ -15,8 +12,6 @@
 - Riley Stetler
 
 ## Client Partner Information
-
----
 
 ***Company:***
 
@@ -28,14 +23,9 @@ Betterflye
 
 ## Links
 
----
-
 - [Project description]()
 - [Team meeting minutes]()
 - [Mentor meeting minutes]()
 - [Client partner meeting minutes]()
 
 ## Code Repositories
-
----
-
