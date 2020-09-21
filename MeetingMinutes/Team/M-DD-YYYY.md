@@ -1,4 +1,4 @@
-# Client Meeting on M/DD/YYYY
+# Team Meeting on M/DD/YYYY
 
 ## Meeting Start Time
 

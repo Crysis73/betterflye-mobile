@@ -1,4 +1,4 @@
-# Client Meeting on M/DD/YYYY
+# Mentor Meeting on M/DD/YYYY
 
 ## Meeting Start Time
 
