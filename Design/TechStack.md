@@ -8,9 +8,9 @@
 - MySQL
 - Docker
 
-## [ASP.NET Core]((https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1))
+## [PHP](https://www.php.net/)
 
-There will be an ASP.NET Core microservice in the cloud that our application sends rest requests to in order to communicate with the database. The reason behind choosing ASP.NET Core to write the microservice in is because of the extensive documentation behind the .NET Framework and the massive community of developers. We believe that due to the size and activity of the community, we will be able to easily find documentation and answers for questions we have. Additionally, Microsoft provides detailed documentation on design patterns and best practices that we will be able to take advantage of.
+The current Betterflye implementation features a publicly accessible API written in PHP. We will take advantage of this API so that our mobile application can communicate with the backend. We do have the option of writing our own API, but it wouldn't make sense to not use something that's already done for us.
 
 ## [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 
