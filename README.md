@@ -27,5 +27,6 @@ Betterflye
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Kanban Board](https://github.com/Crysis73/betterflye-mobile-dev/projects/1)
 
 ## Code Repositories
