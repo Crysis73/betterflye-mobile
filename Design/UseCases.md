@@ -8,6 +8,8 @@
   - Anyone who signs up for Betterflye has the intention of volunteering
 - Initiative Manager
   - People who work for an initiative and are given the "Manager" role. There can be many initiative managers and they have special privileges for coordinating the initiative.
+- Users
+  - General users of the application who can send appreciations to each other
 
 ## Use Cases
 
@@ -62,14 +64,14 @@ In Betterflye, users can send each other virtual currency known as an *appreciat
 
 #### UC3 Simple Flow
 
-1. A volunteer wants to send an appreciation to another volunteer
-2. The first volunteer obtains the second volunteers QR Code
-3. The first volunteer scans the second volunteers QR Code
-4. The first volunteer is then navigated to the appreciation page with the second volunteer marked as the appreciation recipient.
+1. A user wants to send an appreciation to another user
+2. The first user obtains the second users QR Code
+3. The first user scans the second users QR Code
+4. The first user is then navigated to the appreciation page with the second user marked as the appreciation recipient.
 
 #### UC3 Actors
 
-- Volunteers
+- Users
 
 #### UC3 Business Requirement
 

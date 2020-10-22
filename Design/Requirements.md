@@ -35,7 +35,7 @@
 
 ### UC3 Functional Requirements
 
-- FR9: When a volunteer scans another volunteer's QR Code, the user should be directed to the "Send an Appreciation" screen with the other volunteer's information already populated.
+- FR9: When a user scans another user's QR Code, the user should be directed to the "Send an Appreciation" screen with the other user's information already populated.
   - Business Requirement: BR1
   - Priority: High
 

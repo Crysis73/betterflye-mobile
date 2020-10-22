@@ -10,24 +10,6 @@ The user is any user of the application. Users can create organizations, volunte
 
 Notifications are literal notifications that users get sent. Upon logging in, the web application queries all notifications that are associated with a given userId that have not been read and displays them to the user. The main type of notification we're concerned with is an appreciation, which users can send to each other, to recognize the impact that a user has had.
 
-## Badge
-
-Here are the different types of badges that a user can earn.
-
-- Advance Research
-- Raise Awareness
-- Education
-- Help & Support
-- Save Lives
-- Inspire & Motivate
-- Well Being & Good Life
-- Conservation
-- Advocacy &Justice
-- Care & Love
-- Joy & Hope
-- Community & Inclusion
-- General Impact
-
 ## Organizations
 
 Organizations are groups with a purpose they'd like to achieve. Betterflye currently is only allowing verified organizations like non-profits to create a Betterflye organization. Using betterflye, organizations can create initiatives to achieve goals.
