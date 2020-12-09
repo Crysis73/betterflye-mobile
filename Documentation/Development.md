@@ -133,7 +133,7 @@ A Model class is a **non-visual** class that purely contains data that needs to 
 
 ![folder](images/folder.png)
 
-In Flutter, the application logic is in the is all in the `lib` folder.
+In Flutter, the application logic is all in the `lib` folder.
 
 From there, we have a Betterflye folder which will contain any static files needed to hold constants used across the application.
 
