@@ -17,7 +17,7 @@ To create an account, after opening the application, press the sign up button. Y
 
 After entering in the above information, press the next button, and you'll be directed to a page where you can enter in your username, email, and password. Once you've finished entering in that information, click "Create Account"!
 
-<img src="images/createAccP1.png" alt="Create account page 1" width="270" height="500"/><img src="images/createAccP2.png" alt="Create account page 2" width="270" height="500"/>
+<img src="images/createAccP1.png" alt="Create account page 1" width="270" height="500" hspace="5"/><img src="images/createAccP2.png" alt="Create account page 2" width="270" height="500" hspace="5"/>
 
 ## Login to your Account
 
