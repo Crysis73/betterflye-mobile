@@ -9,15 +9,21 @@ Currently using the Betterflye Mobile application users are able to:
 5. View initiatives from the Betterflye platform
 6. Log out of their account
 
+<img src="images/startPage.png" alt="Start page" width="270" height="500"/>
+
 ## Create An Account
 
 To create an account, after opening the application, press the sign up button. You'll be directed to a screen where you can enter in your first name, your last name, and tick a checkbox confirming that you are at least 13 years old.
 
 After entering in the above information, press the next button, and you'll be directed to a page where you can enter in your username, email, and password. Once you've finished entering in that information, click "Create Account"!
 
+<img src="images/createAccP1.png" alt="Create account page 1" width="270" height="500"/><img src="images/createAccP2.png" alt="Create account page 2" width="270" height="500"/>
+
 ## Login to your Account
 
 To login to your account, after opening the application, press the login button. You'll be directed to a page where you can enter in your username and password. Once you've entered in your username and password, if your username and password are correct, you'll be directed to your profile page!
+
+<img src="images/loginPage.png" alt="Login page" width="270" height="500"/>
 
 ## View your QR Code
 
@@ -34,3 +40,5 @@ After pressing the "List of Initiatives" button on the bottom navigation bar, yo
 ## Logout of your Account
 
 From any page on the bottom navigation bar, you can press the drawer button located in the top left of the screen, which opens the drawer containing the "Logout" button. By pressing the logout button, you will be logged out of your account and returned to the start page.
+
+<img src="images/drawer.png" alt="Logout button in drawer" width="270" height="500"/>
