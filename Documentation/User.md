@@ -5,13 +5,15 @@ Currently using the Betterflye Mobile application users are able to:
 1. Create an account on the Betterflye platform
 2. Login using their created credentials
 3. See their unique user QR Code, which directs anyone who scans it to their profile page on the Betterflye website
-4. Log out of their account.
+4. Scan a QR code, whose results are displayed in the app
+5. View initiatives from the Betterflye platform
+6. Log out of their account
 
 ## Create An Account
 
 To create an account, after opening the application, press the sign up button. You'll be directed to a screen where you can enter in your first name, your last name, and tick a checkbox confirming that you are at least 13 years old.
 
-After entering in the above information, press the next button, and you'll be directed to a page where you can enter in your username, email, and password. Once you've finished entering in that information, click sign up!
+After entering in the above information, press the next button, and you'll be directed to a page where you can enter in your username, email, and password. Once you've finished entering in that information, click "Create Account"!
 
 ## Login to your Account
 
@@ -19,8 +21,16 @@ To login to your account, after opening the application, press the login button.
 
 ## View your QR Code
 
-After logging in to the application, the only screen that you can interact with displays a QR Code that contains your unique profile url! If you have someone scan it, they will be directed to your profile on the Betterflye website.
+Directly after logging in to the application, you will be directed to your QR code page. This QR code containers your unique profile url, which will direct someone to your profile page on the Betterflye website if they scan your QR code. If you navigate away from this page, you can get back to it by pressing the "Your QR Code" button on the bottom navigation bar.
 
-## Logout of your Acount
+## Scan a QR Code
 
-While on your QR Code page, there is a Logout button which logs you out of your account and sends you back to the start page.
+After pressing the "Scan a QR Code" button on the bottom navigation bar, you are directed to a page where you can scan a QR code. By pressing the "Scan" button, your camera is opened and you have to position your camera so that the QR code is within the square on your screen. Hold the camera in this position until the scan is finished, when you will be directed back to the Scan page, where the result will be displayed in a pop-up bar.
+
+## View Betterflye Initiatives
+
+After pressing the "List of Initiatives" button on the bottom navigation bar, you are directed to a page where you see a list of initiatives from the Betterflye platform. You can click on any initiative from the list to see expanded details of that particular initiative.
+
+## Logout of your Account
+
+From any page on the bottom navigation bar, you can press the drawer button located in the top left of the screen, which opens the drawer containing the "Logout" button. By pressing the logout button, you will be logged out of your account and returned to the start page.
