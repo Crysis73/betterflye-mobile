@@ -9,7 +9,9 @@ Currently using the Betterflye Mobile application users are able to:
 5. View initiatives from the Betterflye platform
 6. Log out of their account
 
-<img src="images/startPage.png" alt="Start page" width="270" height="500"/>
+**If a notification pops up to ask for camera permission, be sure to allow the application camera access. If said notification does not show up when you first open the app, you may need to manually allow camera access in your phone's settings.**
+
+<img src="images/startPage.png" alt="Start page" width="270" height="530"/>
 
 ## Create An Account
 
@@ -17,28 +19,34 @@ To create an account, after opening the application, press the sign up button. Y
 
 After entering in the above information, press the next button, and you'll be directed to a page where you can enter in your username, email, and password. Once you've finished entering in that information, click "Create Account"!
 
-<img src="images/createAccP1.png" alt="Create account page 1" width="270" height="500" hspace="5"/><img src="images/createAccP2.png" alt="Create account page 2" width="270" height="500" hspace="5"/>
+<img src="images/createAccP1.png" alt="Create account page 1" width="270" height="530" hspace="5"/><img src="images/createAccP2.png" alt="Create account page 2" width="270" height="530" hspace="5"/>
 
 ## Login to your Account
 
 To login to your account, after opening the application, press the login button. You'll be directed to a page where you can enter in your username and password. Once you've entered in your username and password, if your username and password are correct, you'll be directed to your profile page!
 
-<img src="images/loginPage.png" alt="Login page" width="270" height="500"/>
+<img src="images/loginPage.png" alt="Login page" width="270" height="530"/>
 
 ## View your QR Code
 
-Directly after logging in to the application, you will be directed to your QR code page. This QR code containers your unique profile url, which will direct someone to your profile page on the Betterflye website if they scan your QR code. If you navigate away from this page, you can get back to it by pressing the "Your QR Code" button on the bottom navigation bar.
+Directly after logging in to the application, you will be directed to your QR code page. This QR code contains your unique profile url, which will direct someone to your profile page on the Betterflye website if they scan your QR code. If you navigate away from this page, you can get back to it by pressing the "Your QR Code" button on the bottom navigation bar.
+
+<img src="images/qrPage.png" alt="Login page" width="270" height="530"/>
 
 ## Scan a QR Code
 
 After pressing the "Scan a QR Code" button on the bottom navigation bar, you are directed to a page where you can scan a QR code. By pressing the "Scan" button, your camera is opened and you have to position your camera so that the QR code is within the square on your screen. Hold the camera in this position until the scan is finished, when you will be directed back to the Scan page, where the result will be displayed in a pop-up bar.
 
+<img src="images/scanPage.png" alt="Scan page" width="270" height="530" hspace="5"/><img src="images/cameraScreen.png" alt="Camera page" width="270" height="530" hspace="5"/><img src="images/snackBar.png" alt="Scan result" width="270" height="530" hspace="5"/>
+
 ## View Betterflye Initiatives
 
-After pressing the "List of Initiatives" button on the bottom navigation bar, you are directed to a page where you see a list of initiatives from the Betterflye platform. You can click on any initiative from the list to see expanded details of that particular initiative.
+After pressing the "List of Initiatives" button on the bottom navigation bar, you are directed to a page where you see a list of initiatives from the Betterflye platform. You can click on any initiative from the list to see expanded details of that particular initiative. Press the arrow in the top left of the screen to go back to the list of all the initiatives.
+
+<img src="images/initiativeList.png" alt="Initiative list" width="270" height="530" hspace="5"/><img src="images/initiativeDetails.png" alt="Initiative details" width="270" height="530" hspace="5"/>
 
 ## Logout of your Account
 
-From any page on the bottom navigation bar, you can press the drawer button located in the top left of the screen, which opens the drawer containing the "Logout" button. By pressing the logout button, you will be logged out of your account and returned to the start page.
+From any page accessed from the bottom navigation bar, you can press the drawer button located in the top left of the screen, which opens the drawer containing the "Logout" button. By pressing the logout button, you will be logged out of your account and returned to the start page.
 
-<img src="images/drawer.png" alt="Logout button in drawer" width="270" height="500"/>
+<img src="images/drawer.png" alt="Logout button in drawer" width="270" height="530"/>
