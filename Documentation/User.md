@@ -46,9 +46,9 @@ After pressing the "Your Initiatives" button on the bottom navigation bar, you a
 
 ## Check a User In or Out of an Initiative Shift
 
-From the initiative list seen above, you can click on any initiative to see a list of shifts for that initiative. Next, you press the "Check In/Out" button, and scan the user's QR code to check them in if they need checked in, or it checks them out if they are already checked in.
+From the initiative list seen above, you can click on any initiative to see a list of shifts for that initiative. Next, you press the "Check In/Out" button, and scan the user's QR code to check them in if they need checked in, or it checks them out if they are already checked in. If the user has already logged their shift, you will be notified.
 
-<img src="images/shiftPage.png" alt="Initiative shift page" width="270" height="530" hspace="5"/><img src="images/cameraScreen.png" alt="Camera screen"  width="270" height="530" hspace="5">
+<img src="images/shiftPage.png" alt="Initiative shift page" width="270" height="530" hspace="5"/><img src="images/cameraScreen.png" alt="Camera screen"  width="270" height="530" hspace="5"><img src="images/shiftAlreadyCheckedIn.png" alt="Trying to check in somebody who has alread checked in and out"  width="270" height="530" hspace="5">
 
 **If Betterflye does not have camera access on your phone, you will be notified when you try to scan a QR code and directed to your settings to allow access.**
 
