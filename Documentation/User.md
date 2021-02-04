@@ -1,15 +1,14 @@
-# User Documentation
+# Betterflye Mobile User Documentation
 
 Currently using the Betterflye Mobile application users are able to:
 
 1. Create an account on the Betterflye platform
 2. Login using their created credentials
-3. See their unique user QR Code, which directs anyone who scans it to their profile page on the Betterflye website
-4. Scan a QR code, whose results are displayed in the app
-5. View initiatives from the Betterflye platform
-6. Log out of their account
-
-**If a notification pops up to ask for camera permission, be sure to allow the application camera access. If said notification does not show up when you first open the app, you may need to manually allow camera access in your phone's settings.**
+3. See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned
+4. View their profile page
+5. View initiatives they manage from the Betterflye platform
+6. Scan another user's QR code to check them in or out of an initiative
+7. Log out of their account
 
 <img src="images/startPage.png" alt="Start page" width="270" height="530"/>
 
@@ -29,21 +28,29 @@ To login to your account, after opening the application, press the login button.
 
 ## View your QR Code
 
-Directly after logging in to the application, you will be directed to your QR code page. This QR code contains your unique profile url, which will direct someone to your profile page on the Betterflye website if they scan your QR code. If you navigate away from this page, you can get back to it by pressing the "Your QR Code" button on the bottom navigation bar.
+Directly after logging in to the application, you will be directed to your QR code page. This QR code contains your unique profile url, which will direct someone to your profile page on the Betterflye website if they scan your QR code. If you navigate away from this page, you can get back to it by pressing the "Your Qr Code" button on the bottom navigation bar.
 
-<img src="images/qrPage.png" alt="Login page" width="270" height="530"/>
+<img src="images/qrPage.png" alt="QR code page" width="270" height="530"/>
 
-## Scan a QR Code
+## View your Profile Page
 
-After pressing the "Scan a QR Code" button on the bottom navigation bar, you are directed to a page where you can scan a QR code. By pressing the "Scan" button, your camera is opened and you have to position your camera so that the QR code is within the square on your screen. Hold the camera in this position until the scan is finished, when you will be directed back to the Scan page, where the result will be displayed in a pop-up bar.
+By clicking the "Profile Page" button on the bottom navigation bar, you will be directed to your user profile page. This page contains your first and last name, along with your impact score, current volunteer hours, and total amount of money donated.
 
-<img src="images/scanPage.png" alt="Scan page" width="270" height="530" hspace="5"/><img src="images/cameraScreen.png" alt="Camera page" width="270" height="530" hspace="5"/><img src="images/snackBar.png" alt="Scan result" width="270" height="530" hspace="5"/>
+<img src="images/profile.png" alt="Profile page" width="270" height="530" hspace="5"/>
 
-## View Betterflye Initiatives
+## View Initiatives You Manage
 
-After pressing the "List of Initiatives" button on the bottom navigation bar, you are directed to a page where you see a list of initiatives from the Betterflye platform. You can click on any initiative from the list to see expanded details of that particular initiative. Press the arrow in the top left of the screen to go back to the list of all the initiatives.
+After pressing the "Your Initiatives" button on the bottom navigation bar, you are directed to a page where you see a list of initiatives from the Betterflye platform that you manage. If you do not manage any, none will show up.
 
-<img src="images/initiativeList.png" alt="Initiative list" width="270" height="530" hspace="5"/><img src="images/initiativeDetails.png" alt="Initiative details" width="270" height="530" hspace="5"/>
+<img src="images/initiativeList.png" alt="Initiative list" width="270" height="530" hspace="5"/><img src="images/noInitsFound.png" alt="No initiatives found" width="270" height="530" hspace="5"/>
+
+## Check a User In or Out of an Initiative Shift
+
+From the initiative list seen above, you can click on any initiative to see a list of shifts for that initiative. Next, you press the "Check In/Out" button, and scan the user's QR code to check them in if they need checked in, or it checks them out if they are already checked in.
+
+<img src="images/shiftPage.png" alt="Initiative shift page" width="270" height="530" hspace="5"/><img src="images/cameraScreen.png" alt="Camera screen"  width="270" height="530" hspace="5">
+
+**If Betterflye does not have camera access on your phone, you will be notified when you try to scan a QR code and directed to your settings to allow access.**
 
 ## Logout of your Account
 
