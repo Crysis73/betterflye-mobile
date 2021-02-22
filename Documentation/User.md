@@ -3,12 +3,13 @@
 Currently using the Betterflye Mobile application users are able to:
 
 1. [Create an account on the Betterflye platform](#create-an-account)
-2. [Login using their created credentials](#login-to-your-account)
-3. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
-4. [View their profile page](#view-your-profile-page)
-5. [View initiatives they manage from the Betterflye platform](#view-initiatives-you-manage)
-6. [Scan another user's QR code to check them in or out of an initiative](#check-a-user-in-or-out-of-an-initiative-shift)
-7. [Log out of their account](#logout-of-your-account)
+2. [Check theirself into an initiative, where they have already registered for a shift, by scanning an initiative's QR code.](#check-yourself-into-an-initiative-shift)
+3. [Login using their created credentials](#login-to-your-account)
+4. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
+5. [View their profile page](#view-your-profile-page)
+6. [View initiatives they manage from the Betterflye platform](#view-initiatives-you-manage)
+7. [Scan another user's QR code to check them in or out of an initiative](#check-a-user-in-or-out-of-an-initiative-shift)
+8. [Log out of their account](#logout-of-your-account)
 
 <img src="images/startPage.png" alt="Start page" width="270" height="530"/>
 
@@ -32,6 +33,14 @@ Directly after logging in to the application, you will be directed to your QR co
 
 <img src="images/qrPage.png" alt="QR code page" width="270" height="530"/>
 
+## Check Yourself Into an Initiative Shift
+
+*Note: A user must have already registered for a shift on the Betterflye website in order to check in for that shift.*
+
+To check yourself into an initiative shift, press the "Self Check In" button on the bottom navigation bar. Next, press the "Check In/Out" button on that page which opens up your phone's camera, where you then must scan the initiative QR code provided by the initiative manager.
+
+<img src="" alt="" width="270" height="530" hspace="5"><img src="" alt="" width="270" height="530" hspace="5"><img src="" alt="" width="270" height="530" hspace="5">
+
 ## View your Profile Page
 
 By clicking the "Profile Page" button on the bottom navigation bar, you will be directed to your user profile page. This page contains your first and last name, along with your impact score, current volunteer hours, and total amount of money donated.
@@ -45,6 +54,8 @@ After pressing the "Your Initiatives" button on the bottom navigation bar, you a
 <img src="images/initiativeList.png" alt="Initiative list" width="270" height="530" hspace="5"/><img src="images/noInitsFound.png" alt="No initiatives found" width="270" height="530" hspace="5"/>
 
 ## Check a User In or Out of an Initiative Shift
+
+*Note: A user must have already registered for a shift on the Betterflye website in order to check in for that shift.*
 
 From the initiative list seen above, you can click on any initiative to see a list of shifts for that initiative. Next, you press the "Check In/Out" button, and scan the user's QR code to check them in if they need checked in, or it checks them out if they are already checked in. If the user has already logged their shift, you will be notified.
 
