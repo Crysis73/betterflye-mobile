@@ -3,9 +3,9 @@
 Currently using the Betterflye Mobile application users are able to:
 
 1. [Create an account on the Betterflye platform](#create-an-account)
-2. [Check theirself into an initiative shift by scanning the initiative's QR code.](#check-yourself-into-an-initiative-shift)
-3. [Login using their created credentials](#login-to-your-account)
-4. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
+2. [Login using their created credentials](#login-to-your-account)
+3. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
+4. [Check theirself into an initiative shift by scanning the initiative's QR code.](#check-yourself-into-an-initiative-shift)
 5. [View their profile page](#view-your-profile-page)
 6. [View initiatives they manage from the Betterflye platform](#view-initiatives-you-manage)
 7. [Scan another user's QR code to check them in or out of an initiative](#check-a-user-in-or-out-of-an-initiative-shift)
@@ -41,7 +41,7 @@ Directly after logging in to the application, you will be directed to your QR co
 
 To check yourself into an initiative shift, press the "Self Check In" button on the bottom navigation bar. Next, press the "Check In/Out" button on that page which opens up your phone's camera, where you then must scan the initiative QR code provided by the initiative manager.
 
-<img src="images/selfCheckInPage.png" alt="Self Check In Page" width="270" height="550" hspace="5"><img src="images/" alt="Self check in QR scanning" width="270" height="550" hspace="5"><img src="images/" alt="Self check in success" width="270" height="550" hspace="5">
+<img src="images/selfCheckInPage.png" alt="Self Check In Page" width="270" height="550" hspace="5"><img src="images/selfCheckIn.jpg" alt="Self check in QR scanning" width="270" height="550" hspace="5">
 
 ## View your Profile Page
 
@@ -65,7 +65,7 @@ From the initiative list seen above, you can click on any initiative to see a li
 
 By pressing the "QR Code" tab at the top of the initiative shift page, you will see the QR code for this initiative. Those wishing to self check-in will need to scan this QR code.
 
-<img src="images/initShifts.png" alt="Initiative shift page" width="270" height="550" hspace="5"/><img src="images/.png" alt="Camera screen"  width="270" height="550" hspace="5"><img src="images/.png" alt="Trying to check in somebody who has alread checked in and out"  width="270" height="550" hspace="5"><img src="images/initQrCode.png" alt="Initiative shift page" width="270" height="550" hspace="5"/>
+<img src="images/initShifts.png" alt="Initiative shift page" width="270" height="550" hspace="5"/><img src="images/initQrCode.png" alt="Initiative shift page" width="270" height="550" hspace="5"/><img src="images/initCheckIn.jpg" alt="Camera screen"  width="270" height="550" hspace="5">
 
 ## Logout of your Account
 
