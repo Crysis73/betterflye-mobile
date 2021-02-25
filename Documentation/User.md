@@ -3,9 +3,9 @@
 Currently using the Betterflye Mobile application users are able to:
 
 1. [Create an account on the Betterflye platform](#create-an-account)
-2. [Check theirself into an initiative shift by scanning the initiative's QR code.](#check-yourself-into-an-initiative-shift)
-3. [Login using their created credentials](#login-to-your-account)
-4. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
+2. [Login using their created credentials](#login-to-your-account)
+3. [See their unique user QR Code, which allows initiative managers to check them in and out of an initiative shift when scanned](#view-your-qr-code)
+4. [Check theirself into an initiative shift by scanning the initiative's QR code.](#check-yourself-into-an-initiative-shift)
 5. [View their profile page](#view-your-profile-page)
 6. [View initiatives they manage from the Betterflye platform](#view-initiatives-you-manage)
 7. [Scan another user's QR code to check them in or out of an initiative](#check-a-user-in-or-out-of-an-initiative-shift)
