@@ -8,7 +8,7 @@
 - Casey Haskins
 - Clay Reber
 - Jacob Deffendall
-- Matthew Scrag
+- Matthew Schrag
 - Riley Stetler
 
 ## Client Partner Information
